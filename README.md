@@ -1,8 +1,12 @@
-hey go look at someone elses profile!!
-
-<!---
-liamCisbestprograminglanguage/liamCisbestprograminglanguage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Nothing to be seen
 
 you aren't going to find anything here
+
+```c++
+#include <iostream>
+using namespace std;
+
+int main(){
+  cout << "literealy nothing here";
+}
+```
